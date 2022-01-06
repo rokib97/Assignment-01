@@ -70,6 +70,36 @@ h1 {
 #goals {
   background-color: rgba(32, 178, 171, 0.561);
 }
+.education{
+  width: 50%;
+  padding-left: 2%;
+  padding-top: 2%;
+  text-align: justify;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;;
+}
+#college-year{
+  border-left: 7px solid;
+  border-image: linear-gradient(rgb(133, 0, 77), rgb(255, 72, 0));
+  border-image-slice: 1;
+  line-height: 20px;
+}
+#versity-year{
+  border-left: 7px solid;
+  border-image: linear-gradient(blue,violet);
+  border-image-slice: 1;
+}
+.college-color{
+  background-color: lightgreen;
+}
+.versity-color{
+  background-color: lightsalmon;
+}
+.education-title{
+  color: rgb(3, 9, 22);
+}
 .footer {
   text-align: center;
   background-color: rgb(9, 0, 17);
