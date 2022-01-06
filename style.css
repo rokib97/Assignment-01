@@ -20,6 +20,7 @@ h1 {
   margin-bottom: 150px;
   padding-left: 7%;
   padding-right: 5%;
+  text-align: justify;
 }
 .first-width {
   width: 50%;
@@ -50,7 +51,6 @@ h1 {
 }
 .named-smthng {
   text-align: center;
-  margin-bottom: 100px;
 }
 .mission-type {
   width: 30%;
@@ -102,6 +102,86 @@ h1 {
 }
 .education-title {
   color: rgb(3, 9, 22);
+}
+.skill {
+  text-align: center;
+  margin-bottom: 150px;
+}
+.skill-item {
+  display: flex;
+  margin-bottom: 15px;
+  padding-left: 7%;
+  padding-right: 5%;
+}
+.first-skill {
+  width: 20%;
+  padding-left: 2%;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;
+  padding: 20px 40px 20px 40px;
+  background-color: crimson;
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 700;
+}
+.second-skill {
+  width: 50%;
+  padding-left: 2%;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;
+  padding: 20px 40px 20px 40px;
+  background-color: blue;
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 700;
+}
+.third-skill {
+  width: 20%;
+  padding-left: 2%;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;
+  padding: 20px 40px 20px 40px;
+  background-color: crimson;
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 700;
+}
+.fourth-skill {
+  width: 45%;
+  padding-left: 2%;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;
+  padding: 20px 40px 20px 40px;
+  background-color: rgb(228, 23, 23);
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 700;
+}
+.fifth-skill {
+  width: 45%;
+  padding-left: 2%;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 5px 30px grey;
+  margin-right: 70px;
+  margin-right: 2%;
+  padding: 20px 40px 20px 40px;
+  background-color: rgb(228, 23, 23);
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: 700;
 }
 .footer {
   background-color: rgb(9, 0, 17);
