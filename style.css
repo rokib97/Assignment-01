@@ -24,14 +24,14 @@ h1 {
 }
 .first-width {
   width: 50%;
-  padding-left: 5%;
-  padding-top: 5%;
   margin-top: 2%;
   padding-bottom: 5%;
   margin-right: 5%;
+  padding-left: 3%;
+  margin-right: 2%;
 }
 .first-width img {
-  width: 70%;
+  width: 90%;
 }
 .explore-btn {
   text-decoration: none;
