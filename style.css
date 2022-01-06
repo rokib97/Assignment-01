@@ -28,7 +28,7 @@ h1 {
   padding-top: 5%;
 }
 .first-width img {
-  width: 80%;
+  width: 90%;
 }
 .explore-btn {
   text-decoration: none;
@@ -184,6 +184,7 @@ h1 {
   font-weight: 700;
 }
 .footer {
+  padding: 1px;
   background-color: rgb(9, 0, 17);
   text-align: center;
 }
@@ -192,9 +193,9 @@ h1 {
 }
 .mission {
   color: rgb(255, 255, 255);
-  font-family: "Yeseva One", cursive;
+  font-family: "Lobster", cursive;
 }
 .two-zero {
   color: crimson;
-  font-family: "Yeseva One", cursive;
+  font-family: "Lobster", cursive;
 }
